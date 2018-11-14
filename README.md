@@ -1,0 +1,2 @@
+# VNS PoolMiner
+VNS PoolMiner
